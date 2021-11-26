@@ -1,0 +1,11 @@
+git config:
+
+//Configurar datos de usuario
+git config --global user.name "Manuel Puche"
+git config --global user.email "manueldavidpuche@hotmail.com"
+
+//Ver configuracion actual
+git config --list
+
+//Ver ubicacion de las configuraciones guardadas
+git config --list --show-origin
