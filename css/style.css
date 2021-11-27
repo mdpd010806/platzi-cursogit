@@ -1,10 +1,31 @@
 h1{
     color: rgb(72, 228, 0);
     text-align: center;
-    font-family: Arial;
 }
 p{
     color: rgb(34, 0, 228);
     text-align: center;
+}
+body{
     font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+#content{
+    text-align: center;
+}
+
+#header{
+    width: 100%;
+    background-color: darkgray;
+}
+
+#footer{
+    width: 100%;
+    background-color: darkgreen;
+}
+
+#contenido{
+    background-color: darkturquoise;
 }
